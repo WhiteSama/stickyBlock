@@ -14,7 +14,6 @@ A plugin that adds the ability to stick a block to a page scrolling position and
 
 ## Methods
 
-## Methods example
 ```javascript
 //Init method
 $(element).stickyBlock("init", {
@@ -29,7 +28,7 @@ ajax content load.
 $(element).stickyBlock("reinit");
 ```
 
-| Method | Description  |
-| --- | :--: | :-- |
-| **`init`** | For plugin initialisation |
-| **`init`** | For example for reinit sticky block after   |
+| Method  | Call | Description  |
+| :--: | :-- | :-- |
+| **`init`** | $(element).stickyBlock("**init**", { settings }) | For plugin initialisation |
+| **`reinit`** | $(element).stickyBlock("**reinit**") | For example for reinit sticky block after ajax content load |
