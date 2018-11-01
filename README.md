@@ -24,7 +24,6 @@ $(element).stickyBlock("init", {
 
 ## Methods
 
-Method	Argument	Description
 | Method  | Argument | Description  |
 | --- | :--: | :-- |
 | Option  | Type | Default  |
