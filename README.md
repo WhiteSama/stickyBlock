@@ -20,7 +20,7 @@ $(element).stickyBlock("init", {
 	stopper: $(stopper-element),
 	offsetTop: 100,
 	offsetBottom: 200,
-  emdPoint: "top"
+  	endPoint: "top"
 })
 
 //Reinit method
