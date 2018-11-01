@@ -24,7 +24,6 @@ $(element).stickyBlock("init", {
 })
 
 //Reinit method
-ajax content load.
 $(element).stickyBlock("reinit");
 ```
 
